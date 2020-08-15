@@ -1,0 +1,16 @@
+Passive: Going for the booty
+Chasing an enemy and focusing on his booty gives your champion +15% movement speed. 
+If the enemy´s health is below 20% your chance of grabbing his booty increases so you get additional 5% movement speed.
+
+Q: Absolutely random punch
+Duration: 7sec. When activated you randomly punch the enemy. 50% of your auto attacks result in "random punches" dealing either +20% physical, +20% magical or +20% true demage based on demage of our auto attacks.
+
+W: Unlimited power
+You inhale and focus to relase umlimited power by smashing your fist on the ground. Cast time: 2sec. Dealing 200 magical demage to every enemy around you. Enemy champions hit by Unlimited Power will be feared for 3 Sec.
+
+E: Magic Shield
+Forming a barrier around you with your magic cards which gives you 30 magic resist and 30 armor for 5 seconds.
+
+R: Booty grab
+Your champion instantly grabs an enemy champion´s booty resuting in 30% true damage, based on the enemy´s max. health.
+Booty grab leaves a mark on the enemy so the next booty grab will deal 5% more true demage.
