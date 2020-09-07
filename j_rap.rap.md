@@ -1,6 +1,7 @@
 # JRap
 ## 95bmp
 
+## Verse 1
 If theres a urge to fap,
 i rap like a stepdad
 snapped in a bootytrap,
@@ -12,6 +13,7 @@ cheri ni, aho,
 yokudekimashita」
 ama rap about it, Buster
 
+## Verse 2
 J-Rap, 
 is a real trap,
 and for the next step, no,
@@ -20,12 +22,13 @@ raise new gen weebs,
 and weeb fucking nation
 「hajimemashou...
 anata no karada,
-ga hontouni sugoi desu ka
+ga hontouni sugoi desu ka,
 iie, anata no baka
-sou desu ne, wakarimashita,
+sou desu yo ne, wakarimashita,
 ja mata ne,
 ja mata ashita」
 
+## Verse 3
 last but not least,
 going fast, feed the beast,
 blood and love as to feast,
@@ -33,8 +36,13 @@ mimi-chan be ready now to satisfy their needs,
 「sono ooki oppai wa
 ore ga hoshii desu ka?
 nani ga hoshii?...
-niku niku ni
-sore wa oishii」
+-niku niku ni
+anta donna hitori
+-niku niku ni
+sou desu yo, me wa midori
+-niku niku ni
+hontouni
+-niku niku ni!!!」
 
 ## Notes
 
