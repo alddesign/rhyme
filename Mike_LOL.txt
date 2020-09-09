@@ -6,7 +6,7 @@ Q: Absolutely random punch
 Duration: 7sec. When activated you randomly punch the enemy. 50% of your auto attacks result in "random punches" dealing either +20% physical, +20% magical or +20% true demage based on demage of our auto attacks.
 
 W: Unlimited power
-You inhale and focus to relase umlimited power by smashing your fist on the ground. Cast time: 2sec. Dealing 200 magical demage to every enemy around you. Enemy champions hit by Unlimited Power will be feared for 3 Sec.
+You inhale and focus to relase umlimited power by smashing your fist to the ground. Cast time: 2sec. Dealing 200 magical demage onto each enemy around you. Enemy champions hit by Unlimited Power will be feared for 3 Sec.
 
 E: Magic Shield
 Forming a barrier around you with your magic cards which gives you 30 magic resist and 30 armor for 5 seconds.
